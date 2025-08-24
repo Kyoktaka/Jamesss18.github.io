@@ -18,4 +18,7 @@ Welcome to my portfolio! Here you'll find a showcase of my projects, skills, and
 
 Feel free to reach out via [jb.alburo.bsit@gmail.com](mailto:jb.alburo.bsit@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jameswilson-alburo-b44040326/).
 
+ **Warning:**  
+> In accordance with the Data Privacy Act (RA 10173), please do not reuse, repost, or distribute any images or media found in this portfolio without explicit permission. Unauthorized use may violate privacy and copyright regulations.
+
 Thank you for visiting!
